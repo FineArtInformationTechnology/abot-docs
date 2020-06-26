@@ -1,4 +1,5 @@
 site_name: Abot Docs
+copyright: Copyright©2020, Maintained by the Abot Team.
 theme:
     name: material
     language: zh
