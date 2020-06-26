@@ -34,3 +34,5 @@
 ├── .gitignore                      // git 忽略项
 └── package.json                    // package.json
 </pre>
+
+## 前后端交互方式
